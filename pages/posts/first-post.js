@@ -9,7 +9,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
-      <p>This is my first post! Very cool :) </p>
+      <p>This is my first post! Very cool! </p>
     </Layout>
   )
 }
