@@ -18,6 +18,7 @@ export default function Home({ allPostsData }) {
       </section>
       <section classname={utilStyles.headingXl}>
         <p><a href="/posts/first-post">First Post!</a></p>
+        <p><a href="/posts/about-me">About Me!</a></p>
       </section>
     </Layout>
   )
