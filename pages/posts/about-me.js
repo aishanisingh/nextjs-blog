@@ -1,6 +1,4 @@
 export default function aboutme() {
-    export default function FirstPost() {
-  return (
     <Layout>
       <Head>
         <title>About Me</title>
